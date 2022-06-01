@@ -11,3 +11,5 @@ d-¿De qué forma se comunicaron ustedes?
 nos comunicamos a traves de meet 
 
 e-¿Cuál es la mejor forma de comunicarse entre ustedes dentro de github?
+
+A traves de las Cards de projects
